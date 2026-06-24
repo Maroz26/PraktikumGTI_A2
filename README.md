@@ -1,5 +1,6 @@
 ##PERTEMUAN 1
 
+##Readme pertemuan 2,3 dan 4 ada di dalam folder pertemuan masing masing
 
 GARIS
 <img width="959" height="772" alt="Garis" src="https://github.com/user-attachments/assets/fd6460ca-c87c-47c7-a531-7bba506857e9" />
